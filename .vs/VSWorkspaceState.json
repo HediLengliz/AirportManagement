@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AM.ApplicationCore",
+    "\\AM.ApplicationCore\\bin\\Debug",
+    "\\AM.ApplicationCore\\Domain",
+    "\\AM.ApplicationCore\\Interfaces",
+    "\\AM.ApplicationCore\\Services",
+    "\\AM.Infrastructure",
+    "\\AM.Infrastructure\\Migrations",
+    "\\AM.UI.Console"
+  ],
+  "SelectedNode": "\\AM.ApplicationCore\\bin",
+  "PreviewInSolutionExplorer": false
+}
