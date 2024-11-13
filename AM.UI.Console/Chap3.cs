@@ -9,49 +9,45 @@ using AM.Infrastructure;
 
 namespace AM.UI.Console
 {
+
+
+
     public class Chap3
     {
-        public static void Test1()
+        public static void test3()
         {
-           
-            var planes = new List<Plane>
-                {
-                    InMemorySource.Boeing1,
-                    InMemorySource.Boeing2,
-                    InMemorySource.Airbus
-                };
-
-            var flights = new List<Flight>
-                {
-                    InMemorySource.Flight1,
-                    InMemorySource.Flight2,
-                    InMemorySource.Flight3
-                };
-
-            var staffList = new List<Staff>
-                {
-                    InMemorySource.CaptainStaff,
-                    InMemorySource.Hostess1Staff,
-                    InMemorySource.Hostess2Staff
-                };
-
-            var travelers = new List<Traveller>
-                {
-                    InMemorySource.Traveller1,
-                    InMemorySource.Traveller2,
-                    InMemorySource.Traveller3
-                };
-
-     
-            using (var context = new Context())
+            using (var dbContext = new Context())
             {
-                context.planes.AddRange(planes);      
-                context.flights.AddRange(flights);    
-                context.staffs.AddRange(staffList);    
-                context.travelers.AddRange(travelers); 
+                var planes = new List<Plane>();
+                planes.Add(InMemorySource.Boeing1);
+                planes.Add(InMemorySource.Boeing2);
+                planes.Add(InMemorySource.Airbus);
+                var flights = InMemorySource.Flights;
+                var staffs = InMemorySource.Staffs;
+                var travellers = InMemorySource.Travellers;
 
-                context.SaveChanges();
+                dbContext.flights.AddRange(flights);
+                dbContext.planes.AddRange(planes);
+                dbContext.staffs.AddRange(staffs);
+                dbContext.travelers.AddRange(travellers);
+                dbContext.SaveChanges();
+
+
+
             }
         }
+        static ShowLine showLine = System.Console.WriteLine;
+        public static void Test2()
+        {
+            using (var dbContext = new Context())
+            {
+                var list = dbContext.Tickets.ToList();
+                list.ShowList("ticket list", showLine);
+
+
+            }
+
+        }
     }
+
 }

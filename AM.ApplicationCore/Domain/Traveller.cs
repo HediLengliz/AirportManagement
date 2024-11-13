@@ -21,7 +21,7 @@ namespace AM.ApplicationCore.Domain
 
         public override string ToString()
         {
-            return base.ToString() + $" -- Nationality : {Nationality}";
+            return base.ToString() + $" -- Nationality : {Nationality} FullName{FullName}";
         }
     }
 }

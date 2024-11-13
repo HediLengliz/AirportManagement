@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223735_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Infrastructure\\Migrations\\20241017223735_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223519_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Infrastructure\\Migrations\\20241017223519_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241106111549_splitables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Infrastructure\\Migrations\\20241106111549_splitables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\coreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\coreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\configurations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +47,80 @@
       "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\planetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223204_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Infrastructure\\Migrations\\20241017223204_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\domain\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.ui.console\\chap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\chap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.ui.console\\chap2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\chap2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.ui.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\showline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\showline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\infrastructureextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\infrastructureextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\inmemorysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\inmemorysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.ui.console\\chap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\chap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\migrations\\20241106094305_ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20241106094305_ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\services\\basicflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\basicflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\configurations\\planeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\planeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\migrations\\20241023092748_config.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20241023092748_config.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\interfaces\\ibasicflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\ibasicflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241023104958_FullName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Infrastructure\\Migrations\\20241023104958_FullName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\migrations\\20241023100645_applyconfig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20241023100645_applyconfig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\migrations\\20241017223735_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20241017223735_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\migrations\\20241017223735_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20241017223735_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223519_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Infrastructure\\Migrations\\20241017223519_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223204_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Infrastructure\\Migrations\\20241017223204_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017222235_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,18 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017221958_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Infrastructure\\Migrations\\20241017221958_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.ui.console\\chap2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\chap2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017220205_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,24 +143,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Infrastructure\\Migrations\\20241017213216_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.ui.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A3800FE-7E29-4635-9904-874DB1A0B27F}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\showline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\showline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241016091336_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Infrastructure\\Migrations\\20241016091336_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.applicationcore\\coreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4E5165C-EFA8-4E4D-9F9D-922D48FBCFB0}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\coreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\hedi2\\desktop\\apps\\.net\\airportmanagement\\am.infrastructure\\migrations\\20241023105205_fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DBDEB-18D8-47C0-9431-FD51910D1737}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20241023105205_fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,43 +158,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241017223735_init.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223735_init.cs",
-              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017223735_init.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223735_init.cs",
-              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017223735_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:37:36.019Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20241017223519_init.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223519_init.cs",
-              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017223519_init.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223519_init.cs",
-              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017223519_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20241106111549_splitables.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241106111549_splitables.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241106111549_splitables.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241106111549_splitables.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241106111549_splitables.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:35:19.67Z",
+              "WhenOpened": "2024-11-06T11:15:50.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:26:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:10:03.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Ticket.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Ticket.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Ticket.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Ticket.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:51:55.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Traveller.cs",
               "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Traveller.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Traveller.cs",
               "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Traveller.cs",
               "RelativeToolTip": "AM.ApplicationCore\\Domain\\Traveller.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBcAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:18:25.212Z",
               "EditorCaption": ""
@@ -150,19 +232,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Plane.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Plane.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Plane.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAAfAAAAAAAAAA==",
+              "Title": "CoreExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\CoreExtensions.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\CoreExtensions.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\CoreExtensions.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\CoreExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:24:46.511Z",
+              "WhenOpened": "2024-10-09T10:54:31.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Context.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Context.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Context.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Context.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:17:24.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:52:29.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:21:04.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "PlaneType.cs",
               "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\PlaneType.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\PlaneType.cs",
@@ -175,189 +296,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Staff.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Staff.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Staff.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Staff.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:26:34.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Passenger.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Passenger.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Passenger.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Passenger.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Passenger.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwBIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:21:04.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Flight.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Flight.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:52:29.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20241017223204_init.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223204_init.cs",
-              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017223204_init.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223204_init.cs",
-              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017223204_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:32:04.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "InMemorySource.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\InMemorySource.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\InMemorySource.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\InMemorySource.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\InMemorySource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:38:05.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Chap3.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Chap3.cs",
-              "RelativeDocumentMoniker": "AM.UI.Console\\Chap3.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Chap3.cs",
-              "RelativeToolTip": "AM.UI.Console\\Chap3.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAuwA0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:03:16.533Z",
+              "WhenOpened": "2024-10-16T09:24:46.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "20241017222235_init3.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017222235_init3.cs",
-              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017222235_init3.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017222235_init3.cs",
-              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017222235_init3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FullName.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\FullName.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\FullName.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Domain\\FullName.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\FullName.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:22:35.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Context.cs",
-              "RelativeDocumentMoniker": "AM.Infrastructure\\Context.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Context.cs",
-              "RelativeToolTip": "AM.Infrastructure\\Context.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:17:24.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Program.cs",
-              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Program.cs",
-              "RelativeToolTip": "AM.UI.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:38:31.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Chap2.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Chap2.cs",
-              "RelativeDocumentMoniker": "AM.UI.Console\\Chap2.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Chap2.cs",
-              "RelativeToolTip": "AM.UI.Console\\Chap2.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:37:51.35Z",
+              "WhenOpened": "2024-10-23T10:01:41.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "20241017221958_init2.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017221958_init2.cs",
-              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017221958_init2.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017221958_init2.cs",
-              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017221958_init2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Chap3.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Chap3.cs",
+              "RelativeDocumentMoniker": "AM.UI.Console\\Chap3.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Chap3.cs",
+              "RelativeToolTip": "AM.UI.Console\\Chap3.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:19:58.93Z",
+              "WhenOpened": "2024-10-23T10:45:02.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20241017220205_init.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017220205_init.cs",
-              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017220205_init.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017220205_init.cs",
-              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017220205_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:02:05.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20241017213832_init.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017213832_init.cs",
-              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017213832_init.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017213832_init.cs",
-              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017213832_init.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T21:38:32.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20241017213216_updatedb.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017213216_updatedb.cs",
-              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017213216_updatedb.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017213216_updatedb.cs",
-              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017213216_updatedb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T21:32:16.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\appsettings.json",
               "RelativeDocumentMoniker": "AM.UI.Console\\appsettings.json",
@@ -370,33 +348,277 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AM.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\AM.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "AM.Infrastructure\\AM.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\AM.Infrastructure.csproj",
-              "RelativeToolTip": "AM.Infrastructure\\AM.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T10:34:56.305Z",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Program.cs",
+              "RelativeToolTip": "AM.UI.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:38:31.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
+              "Title": "Chap2.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Chap2.cs",
+              "RelativeDocumentMoniker": "AM.UI.Console\\Chap2.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.UI.Console\\Chap2.cs",
+              "RelativeToolTip": "AM.UI.Console\\Chap2.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBsAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:37:51.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InfrastructureExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\InfrastructureExtensions.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\InfrastructureExtensions.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\InfrastructureExtensions.cs",
+              "RelativeToolTip": "AM.Infrastructure\\InfrastructureExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:02:47.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InMemorySource.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\InMemorySource.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\InMemorySource.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\InMemorySource.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\InMemorySource.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:38:05.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ShowLine.cs",
               "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\ShowLine.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\ShowLine.cs",
               "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\ShowLine.cs",
               "RelativeToolTip": "AM.ApplicationCore\\ShowLine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:54:32.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241106094305_ticket.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241106094305_ticket.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241106094305_ticket.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241106094305_ticket.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241106094305_ticket.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:43:05.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasicFlightService.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Services\\BasicFlightService.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\BasicFlightService.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Services\\BasicFlightService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\BasicFlightService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIBJwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:32:37.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlaneConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:20:33.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "20241023092748_config.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241023092748_config.Designer.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241023092748_config.Designer.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241023092748_config.Designer.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241023092748_config.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:35:33.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBasicFlightService.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IBasicFlightService.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IBasicFlightService.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IBasicFlightService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IBasicFlightService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:32:23.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241023104958_FullName.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241023104958_FullName.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241023104958_FullName.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241023104958_FullName.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241023104958_FullName.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:49:58.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241023105205_FullName.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241023105205_FullName.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241023105205_FullName.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241023105205_FullName.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241023105205_FullName.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:52:05.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241023100645_applyConfig.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241023100645_applyConfig.Designer.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241023100645_applyConfig.Designer.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241023100645_applyConfig.Designer.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241023100645_applyConfig.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:45:55.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241017223735_init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223735_init.Designer.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017223735_init.Designer.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223735_init.Designer.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017223735_init.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:21:57.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241017223735_init.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223735_init.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017223735_init.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223735_init.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017223735_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:37:36.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241017223519_init.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223519_init.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017223519_init.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223519_init.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017223519_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:35:19.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241017223204_init.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223204_init.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017223204_init.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017223204_init.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017223204_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:32:04.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241017222235_init3.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017222235_init3.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017222235_init3.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017222235_init3.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017222235_init3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:22:35.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241017221958_init2.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017221958_init2.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017221958_init2.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017221958_init2.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017221958_init2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:19:58.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241017220205_init.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017220205_init.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017220205_init.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017220205_init.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017220205_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:02:05.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241017213832_init.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017213832_init.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017213832_init.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017213832_init.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017213832_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:38:32.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241017213216_updatedb.cs",
+              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017213216_updatedb.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241017213216_updatedb.cs",
+              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241017213216_updatedb.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241017213216_updatedb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:32:16.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "20241016091336_init.cs",
               "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.Infrastructure\\Migrations\\20241016091336_init.cs",
               "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20241016091336_init.cs",
@@ -404,19 +626,6 @@
               "RelativeToolTip": "AM.Infrastructure\\Migrations\\20241016091336_init.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T09:13:36.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CoreExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\CoreExtensions.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\CoreExtensions.cs",
-              "ToolTip": "C:\\Users\\hedi2\\Desktop\\apps\\.net\\AirportManagement\\AM.ApplicationCore\\CoreExtensions.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\CoreExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:54:31.007Z",
-              "EditorCaption": ""
             }
           ]
         }

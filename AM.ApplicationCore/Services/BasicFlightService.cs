@@ -71,10 +71,7 @@ namespace AM.ApplicationCore.Services
         {
             return source.Average(e => e.EstimatedDuration);
         }
-        public IEnumerable<string> GetPassengerTypes(int flightId)
-        {
-            return source.Where(e => e.FlightId == flightId).First().Passengers.Select(e => e.PassengerType);
-        }
+        
         public IEnumerable<object> GetDurationsInMinutesLINQ()
         {
             return from e in source select new { e.FlightId, EstimatedDurationInMinutes = 60 * e.EstimatedDuration };

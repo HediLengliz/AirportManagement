@@ -26,7 +26,6 @@ namespace AM.UI.Console
             flightService.GetDurationsInMinutes().ShowList("== GetDurationsInMinutes ==", showLine);
             flightService.GetFlightsSortedByDuration().ShowList("== GetFlightsSortedByDuration ==", showLine);
             new[] { flightService.GetDurationsAverage() }.ShowList("== GetDurationsAverage ==", showLine);
-            flightService.GetPassengerTypes(3).ShowList("== GetPassengerTypes ==", showLine);
             flightService.GetDurationsInMinutesLINQ().ShowList("== GetDurationsInMinutesLINQ ==", showLine);
         }
     }

@@ -11,7 +11,7 @@ namespace AM.Infrastructure
 {
     internal static class InfrastructureExtensions
     {
-        public static string GetJsonConnectionString(this DbContext context, string configFileName)
+        public static string? GetJsonConnectionString(this DbContext context, string configFileName)
         {
             var config = new ConfigurationBuilder().AddJsonFile(configFileName, true, true).Build();
             return config["ConnectionStrings:Default"];
